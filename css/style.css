@@ -1,13 +1,17 @@
+body {
+    background-color: rgb(66, 161, 125);
+}
 
-header{
+header {
     text-align: center;
 }
-p{
-    position: fixed ;
+
+p {
+    position: fixed;
     right: 20px;
     top: 0px;
 }
 
-img{
+img {
     border-radius: 20px
 }
